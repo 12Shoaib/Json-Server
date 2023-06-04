@@ -1,0 +1,22 @@
+{
+  "allScenarios": [
+    {
+      "id": 1,
+      "scenarioName": "Test Scenario",
+      "scenarioTime": "5s",
+      "numberOfVehcles": 1
+    },
+    {
+        "id": 2,
+        "scenarioName": "My Scenario",
+        "scenarioTime": "10s",
+        "numberOfVehcles": 3
+      },
+      {
+        "id": 3,
+        "scenarioName": "Test Scenario",
+        "scenarioTime": "5s",
+        "numberOfVehcles": 0
+      }
+  ]
+}
