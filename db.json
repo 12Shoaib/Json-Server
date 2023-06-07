@@ -7,16 +7,42 @@
       "numberOfVehcles": 1
     },
     {
-        "id": 2,
-        "scenarioName": "My Scenario",
-        "scenarioTime": "10s",
-        "numberOfVehcles": 3
-      },
-      {
-        "id": 3,
-        "scenarioName": "Test Scenario",
-        "scenarioTime": "5s",
-        "numberOfVehcles": 0
-      }
+      "id": 2,
+      "scenarioName": "My Scenario",
+      "scenarioTime": "10s",
+      "numberOfVehcles": 3
+    },
+    {
+      "id": 3,
+      "scenarioName": "Test Scenario",
+      "scenarioTime": "5s",
+      "numberOfVehcles": 0
+    }
+  ],
+  "vehicleData": [
+    {
+      "id": 1,
+      "vehicleName": "Car",
+      "positionX": 50,
+      "positionY": 1,
+      "speed": 10,
+      "direction": "towards"
+    },
+    {
+      "id": 2,
+      "vehicleName": "bus",
+      "positionX": 50,
+      "positionY": 10,
+      "speed": 4,
+      "direction": "upwards"
+    },
+    {
+      "id": 3,
+      "vehicleName": "truck",
+      "positionX": 20,
+      "positionY": 70,
+      "speed": 8,
+      "direction": "backwards"
+    }
   ]
 }
