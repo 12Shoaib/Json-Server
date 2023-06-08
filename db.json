@@ -17,9 +17,9 @@
     {
       "id": 1,
       "vehicleName": "Car",
-      "positionX": 50,
-      "positionY": 1,
-      "speed": 10,
+      "positionX": 10,
+      "positionY": 20,
+      "speed": 3,
       "direction": "Towards",
       "scenarioName" : "Test Scenario"
     }
