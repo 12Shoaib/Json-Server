@@ -3,13 +3,13 @@
     {
       "id": 1,
       "scenarioName": "Test Scenario",
-      "scenarioTime": "5s",
+      "scenarioTime": 5,
       "numberOfVehcles": 1
     },
     {
       "id": 2,
       "scenarioName": "My Scenario",
-      "scenarioTime": "10s",
+      "scenarioTime": 10,
       "numberOfVehcles": 0
     }
   ],
@@ -20,7 +20,7 @@
       "positionX": 50,
       "positionY": 1,
       "speed": 10,
-      "direction": "towards",
+      "direction": "Towards",
       "scenarioName" : "Test Scenario"
     }
   ]
